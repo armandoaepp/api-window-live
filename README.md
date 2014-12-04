@@ -1,9 +1,7 @@
-A repo of [LiveExperiments.com](http://liveexperiments.com/)
-
 
 # LiveExperiments on GitHub
 
-A collection of demos and mock sites i've created to illustrate Windows Live API. 
+A collection of demos and mock sites i've created to illustrate Windows Live API.
 Now open source and on GitHub!
 
 
@@ -24,5 +22,5 @@ Now open source and on GitHub!
 
 # TODO
 
-There are a number of demos to create which would fill in the table on the homepage. 
+There are a number of demos to create which would fill in the table on the homepage.
 I'd also like to expand the site to other Social Networks API's for comparison and add these to the Mashups section below.
